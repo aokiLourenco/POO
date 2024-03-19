@@ -1,0 +1,5 @@
+package TestePratico;
+
+public enum Options {
+    FULL_MENU, DRINKS_AND_SNACKS, LIGHT_BITES, ARCHITECTURAL_TOUR, RIVER_TOUR, ART_MUSEUM, WINE_TASTING;
+}
